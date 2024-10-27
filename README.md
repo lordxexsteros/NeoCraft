@@ -7,8 +7,8 @@
 
 **Neocraft** is a Neovim setup built on top of [💤 lazy.nvim](https://github.com/folke/lazy.nvim) to simplify customization and extension of your configuration. Neocraft combines the flexibility of custom configurations with the ease of a pre-configured environment, making it ideal for developers.
 
-![image](https://user-images.githubusercontent.com/292349/211285846-0b7bb3bf-0462-4029-b64c-4ee1d037fc1c.png)
-![image](https://user-images.githubusercontent.com/292349/211285846-0b7bb3bf-0462-4029-b64c-4ee1d037fc1c.png)
+![image](assets/1-Logo.png)
+![image](assets/2-logo.png)
 
 
 ## ✨ Features
